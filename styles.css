@@ -8,3 +8,60 @@ hr {
     margin: auto;
 }
 
+.container-styles {
+    background-color: white;
+    opacity: .95;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px black;
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+    
+    
+    
+  }
+.text-styles {
+    background-color: white;
+    opacity: .95;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px black;
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+    
+    
+    
+
+}
+  
+.page-header {
+    background-color: white;
+    opacity: .90;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 50px;
+    color: grey;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px black;
+    margin-top: 15px;
+    
+    
+}
+
+.home-background {
+    background-image: url('images/home_firefly7442.jpg');
+  }
+
+.references {
+    background-color: white;
+    opacity: .90;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px black;
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+    margin-top: 15px;
+    
+}
