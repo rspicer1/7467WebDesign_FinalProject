@@ -18,7 +18,19 @@ hr {
     box-shadow: 3px 3px 12px black;
     margin-top: 15px;
     
-    
+}
+
+.feedback-page-header {
+    background-color: white;
+    opacity: .90;
+    text-align: center;
+    font-size: 50px;
+    color: grey;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px black;
+    margin-top: 15px;
+    width: 400px;
 }
 
 .home-background {
@@ -27,6 +39,10 @@ hr {
 
 .about-background {
     background-image: url('images/about_firefly7442.jpg');
+}
+
+.feedback-background {
+    background-image: url('images/feedback_firefly7442.jpg');
 }
   
 .container-styles {
