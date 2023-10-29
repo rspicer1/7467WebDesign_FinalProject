@@ -20,13 +20,31 @@ hr {
     
 }
 
+.page-subheader {
+    background-color: white;
+    opacity: .90;
+    text-align: center;
+    font-size: 30px;
+    color: grey;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px black;
+    margin-top: 15px;
+   
+    margin-bottom: 30px;
+    
+}
+
 .picture-padding {
     border-radius: 10px;
+    
 }
 
 .button-padding {
     margin-top: 15px;
     margin-bottom: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
 }
 
 .button-align {
@@ -49,6 +67,25 @@ hr {
 .content-background {
     background-image: url('images/content_background.jpg')
     
+}
+
+.guidednotes-background {
+    
+    background-size: 100%;
+    background-image: url('images/guidednotes_background.jpg')
+    
+}
+
+.videos-background {
+    
+    background-size: 100%;
+    background-image: url('images/vidoes_background.jpg')
+    
+}
+
+.deltamath-background {
+    background-size: 100%;
+    background-image: url('images/deltamath_background.jpg')
 }
   
 .container-styles {
