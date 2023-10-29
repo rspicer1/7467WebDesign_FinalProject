@@ -20,17 +20,18 @@ hr {
     
 }
 
-.feedback-page-header {
-    background-color: white;
-    opacity: .90;
-    text-align: center;
-    font-size: 50px;
-    color: grey;
-    margin-bottom: 15px;
+.picture-padding {
     border-radius: 10px;
-    box-shadow: 3px 3px 12px black;
+}
+
+.button-padding {
     margin-top: 15px;
-    width: 400px;
+    margin-bottom: 15px;
+}
+
+.button-align {
+    text-align: center;
+    margin-bottom: 15px;
 }
 
 .home-background {
@@ -43,6 +44,10 @@ hr {
 
 .feedback-background {
     background-image: url('images/feedback_firefly7442.jpg');
+}
+
+.content-background {
+    background-image: url('')
 }
   
 .container-styles {
