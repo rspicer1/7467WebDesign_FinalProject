@@ -87,6 +87,11 @@ hr {
     background-size: 100%;
     background-image: url('images/deltamath_background.jpg')
 }
+
+.desmos-background {
+    background-size: 100%;
+    background-image: url('images/desmos_background.jpg')
+}
   
 .container-styles {
     background-color: white;
