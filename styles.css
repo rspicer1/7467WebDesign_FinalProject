@@ -7,6 +7,22 @@ hr {
     max-width: 1000px;
     margin: auto;
 }
+
+.background-parallax {
+    /* The image used */
+    background-image: url("images/mountain_parallax.jpg");
+  
+    /* Set a specific height */
+    min-height: 125px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
 .page-header {
     background-color: white;
     opacity: .90;
@@ -54,42 +70,71 @@ hr {
 
 .home-background {
     background-image: url('images/home_firefly7442.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
 .about-background {
     background-image: url('images/about_firefly7442.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .feedback-background {
     background-image: url('images/feedback_firefly7442.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .content-background {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-image: url('images/content_background.jpg')
+    
     
 }
 
 .guidednotes-background {
     
-    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-image: url('images/guidednotes_background.jpg')
     
 }
 
 .videos-background {
     
-    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-image: url('images/vidoes_background.jpg')
     
 }
 
 .deltamath-background {
-    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-image: url('images/deltamath_background.jpg')
 }
 
 .desmos-background {
-    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-image: url('images/desmos_background.jpg')
 }
   
