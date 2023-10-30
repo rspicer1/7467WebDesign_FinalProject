@@ -8,7 +8,7 @@ hr {
     margin: auto;
 }
 
-.background-parallax {
+.parallax-background {
     /* The image used */
     background-image: url("images/mountain_parallax.jpg");
   
@@ -78,6 +78,7 @@ hr {
 
 .about-background {
     background-image: url('images/about_firefly7442.jpg');
+    min-height: 125px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -199,5 +200,11 @@ hr {
 
 .page-bottom-space {
     padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.text-padding {
+    padding-left: 15px;
+    padding-right: 15px;
     padding-bottom: 10px;
 }
